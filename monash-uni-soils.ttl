@@ -49,5 +49,4 @@ procedure:SOL-IONS-1:5 a sosa:Procedure, skos:Concept;
   skos:definition "A procedure to extract various water soluble ions from a given soil sample. Samples were prepared according to method 3A1 (Rayment & Lyons, 2011) using a 1:5 w/v soil/water extract. Samples were centrifuged and filtered through a 45 µm syringe filter. Approximately 10mL of solution was preserved with 0.5mL of nitric acid. Samples were analysed using ICP-MS.";
   skos:member "fu:procedure";
   dcterms:identifier "http://anzsoil.org/def/au/monash-uni/procedure/SOL-1:5"^^xsd:anyURI;
-  skos:inScheme <http://anzoil.org/def/au/monash-uni>;
   skos:topConceptOf <http://anzoil.org/def/au/monash-uni> .
